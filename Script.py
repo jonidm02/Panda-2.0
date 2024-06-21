@@ -7,7 +7,7 @@ class script(object):
  
     ABOUT_TXT = """
 <b>‣ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/{}">ʙᴏᴛ</a>
-‣ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/KUSHALHK">𝐊𝐔𝐒𝐇𝐀𝐋</a>
+‣ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/pandawiz2">𝐏𝐀𝐍𝐃𝐀</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ‣ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
@@ -275,9 +275,9 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 🗂 𝗙𝗶𝗹𝗲: <b><font class=smcp>{file_name}</font></b>
 📀 𝗦𝗶𝘇𝗲: <b><font class=smcp>{file_size}</font></b>
 
-<b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/KUSHALHK">𝐊𝐔𝐒𝐇𝐀𝐋</a>
-🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/TG_LINKS_CHANNEL">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
-🔰 Gʀᴏᴜᴘ : <a href="https://t.me/movies_hub_official1">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
+<b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/@Leomessi_10_19">𝐋𝐞𝐨𝐌𝐞𝐬𝐬𝐢</a>
+🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/cinemaworld_update">𝐂𝐈𝐍𝐄𝐌𝐀 𝐖𝐎𝐑𝐋𝐃 𝐔𝐏𝐃𝐀𝐓𝐄</a>
+🔰 Gʀᴏᴜᴘ : <a href="https://t.me/cinemaworld_123">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
